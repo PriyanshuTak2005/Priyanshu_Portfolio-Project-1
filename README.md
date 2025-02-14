@@ -38,11 +38,6 @@ Dashboard Features
   •	Real-Time Data Analysis: Updated data for accurate workforce insights.
   •	User-Friendly Interface: Simple navigation to explore different HR metrics.
 
-How to Use
-1.	Clone the repository: 
-2.	https://github.com/PriyanshuTak2005/Priyanshu_Portfolio-Project-1/edit/main/README.md
-3.	Open the dashboard in your preferred data visualization tool (Tableau, Power BI, etc.).
-4.	Explore the various insights and filters available.
    
 Future Enhancements
 •	Adding predictive analytics for salary hikes.
